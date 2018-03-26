@@ -2,31 +2,28 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>CFBundleName</key>
-	<string>IPonCC</string>
-	<key>CFBundleExecutable</key>
-	<string>IPonCC</string>
-	<key>CFBundleIdentifier</key>
-	<string>ee.mait.iponsilocc</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>DataCC</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.m4cs.datacc</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>DataCC</string>
 	<key>CFBundlePackageType</key>
 	<string>BNDL</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>iPhoneOS</string>
+	</array>
 	<key>CFBundleVersion</key>
 	<string>1</string>
 	<key>MinimumOSVersion</key>
 	<string>11.0</string>
-	<key>UIDeviceFamily</key>
-	<array>
-		<integer>1</integer>
-		<integer>2</integer>
-	</array>
-	<key>NSPrincipalClass</key>
-	<string>IPonCC</string>
 	<key>ModuleSize</key>
 	<dict>
 		<key>columns</key>
@@ -34,9 +31,12 @@
 		<key>rows</key>
 		<string>1</string>
 	</dict>
-	<key>CFBundleSupportedPlatforms</key>
+	<key>NSPrincipalClass</key>
+	<string>DataCC</string>
+	<key>UIDeviceFamily</key>
 	<array>
-		<string>iPhoneOS</string>
+		<integer>1</integer>
+		<integer>2</integer>
 	</array>
 	<key>_CCModuleSizePROTOTYPE</key>
 	<dict>

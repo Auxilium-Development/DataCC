@@ -1,12 +1,12 @@
-#import "IPonCCview.h"
+#import "DataCCview.h"
 
 #include <ifaddrs.h>
 #include <arpa/inet.h>
 
 
-@implementation IPonCCview
+@implementation DataCCview
 
--(IPonCCview *) init {
+-(DataCCview *) init {
     self = [super init];
     self.amExpanded = NO;
     self.amTransitioning = NO;
