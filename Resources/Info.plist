@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleName</key>
-	<string>IPonCC</string>
+	<string>DataCC</string>
 	<key>CFBundleExecutable</key>
-	<string>IPonCC</string>
+	<string>DataCC</string>
 	<key>CFBundleIdentifier</key>
-	<string>ee.mait.iponsilocc</string>
+	<string>com.m4cs.datacc</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
 	<key>CFBundleInfoDictionaryVersion</key>
@@ -26,7 +26,7 @@
 		<integer>2</integer>
 	</array>
 	<key>NSPrincipalClass</key>
-	<string>IPonCC</string>
+	<string>DataCC</string>
 	<key>ModuleSize</key>
 	<dict>
 		<key>columns</key>

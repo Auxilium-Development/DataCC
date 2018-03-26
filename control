@@ -1,9 +1,9 @@
-Package: ee.mait.iponcc
-Name: IPonCC
+Package: com.m4cs.datacc
+Name: DataCC
 Version: 0.0.1
 Architecture: iphoneos-arm
-Description: Show IP info in CC
-Author: BlanxdH
+Description: Show Data info on CC
+Author: M4cs, Midnight
 Section: Control Center (Modules)
 Depends: mobilesubstrate, com.ioscreatix.silo, firmware (>= 11)
-Maintainer: BlanxdH
+Maintainer: M4cs (macs@m4cs.xyz)
